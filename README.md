@@ -1,7 +1,7 @@
 ## Hello world, I'm Ajinkya Gholape 👋
 
 <!--
-**ajinkyagholape1998/ajinkyagholape1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gholapeajinkya/gholapeajinkya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -69,25 +69,25 @@ GIS Tech
 
 <p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ajinkyagholape1998&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gholapeajinkya&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinkyagholape1998&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gholapeajinkya&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
   </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyagholape1998&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholapeajinkya&layout=compact&theme=cobalt&hide_border=true" />
 
 ### Achievements
 
 Title | Badge | Earnable? | Earned by
 ------------ | ------------- | ------------ | -------------
-Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/ajinkyagholape1998/github-profile-achievements/blob/main/images/badge-arctic-code-vault-small.png?raw=true) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
+Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/gholapeajinkya/github-profile-achievements/blob/main/images/badge-arctic-code-vault-small.png?raw=true) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 
-<img alt="GitHub Hacktoberfest combined status" src="https://img.shields.io/github/hacktoberfest/2020/ajinkyagholape1998/Graph-Maker">
-<img alt="GitHub Hacktoberfest combined status" src="https://img.shields.io/github/hacktoberfest/2021/ajinkyagholape1998/spotify-clone">
+<img alt="GitHub Hacktoberfest combined status" src="https://img.shields.io/github/hacktoberfest/2020/gholapeajinkya/Graph-Maker">
+<img alt="GitHub Hacktoberfest combined status" src="https://img.shields.io/github/hacktoberfest/2021/gholapeajinkya/spotify-clone">
 
 ### Contact me
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/ajinkyagholape1998) 
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/gholapeajinkya) 
 [<img alt="Github" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajinkya16/)
-[<img alt="gmail" src="https://img.shields.io/badge/-Gmail-c5392a?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:ajinkyagholape1998@gmail.com)
+[<img alt="gmail" src="https://img.shields.io/badge/-Gmail-c5392a?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:gholapeajinkya@gmail.com)
