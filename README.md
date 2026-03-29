@@ -1,52 +1,102 @@
-## 👋 Hi, I'm Ajinkya Gholape
+## Hello World, I'm Ajinkya Gholape 👋
 
-🚀 Frontend Engineer | React Specialist | Exploring AI/ML  
-💡 Building scalable UI systems & experimenting with AI-powered apps  
-
----
-
-## 🛠 Tech Stack
-
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
-
-### 🧰 Tools & Platforms
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Sentry](https://img.shields.io/badge/Sentry-2f1937?style=for-the-badge&logo=sentry)
+🚀 Full Stack Developer passionate about building end-to-end products — from sleek UIs to robust backends.  
+💡 Working with React, React Native, Flutter, TypeScript, Python & Java.  
+🌱 Always learning, always shipping — check out my projects below!  
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/ajinkya16/) | [Gmail](mailto:gholapeajinkya@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 Technologies & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gholapeajinkya&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=gholapeajinkya&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux Saga-593D88?style=for-the-badge&logo=reduxsaga&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholapeajinkya&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Material UI-5468ff?style=for-the-badge&logo=materialui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-0468d7?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Sentry-2f1937?style=for-the-badge&logo=sentry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pusher-300d4f?style=for-the-badge&logo=pusher&logoColor=white"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+### 📊 GitHub Stats
 
-- 🦈 Pull Shark (x2)
-- ❄️ Arctic Code Vault Contributor  
-- 🧠 Active in discussions & learning  
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=gholapeajinkya&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Ajinkya's GitHub Streak" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gholapeajinkya&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Ajinkya's GitHub Stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholapeajinkya&layout=compact&theme=cobalt&hide_border=true" alt="Ajinkya's Top Languages" />
+</p>
 
 ---
 
-## 📬 Connect With Me
+### 🏆 GitHub Trophies
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/gholapeajinkya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajinkya16/)
-[![Email](https://img.shields.io/badge/Gmail-c5392a?style=for-the-badge&logo=gmail)](mailto:gholapeajinkya@gmail.com)
+![Trophies](https://github-profile-trophy.vercel.app/?username=gholapeajinkya&theme=darkhub&no-frame=true&margin-w=10)
+
+---
+
+### 🎖 Achievements
+
+| Title | Badge | Description |
+|-------|-------|-------------|
+| Arctic Code Vault Contributor | ![Arctic Code Vault Contributor](https://github.com/gholapeajinkya/github-profile-achievements/blob/main/images/badge-arctic-code-vault-small.png?raw=true) | Contributed code to the [2020 GitHub Archive Program](https://archiveprogram.github.com/) |
+
+<img alt="GitHub Hacktoberfest 2020" src="https://img.shields.io/github/hacktoberfest/2020/gholapeajinkya/Graph-Maker">
+<img alt="GitHub Hacktoberfest 2021" src="https://img.shields.io/github/hacktoberfest/2021/gholapeajinkya/spotify-clone">
+
+---
+
+### 💬 Dev Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+### 👀 Visitor Count
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=gholapeajinkya&icon=0&color=0)
+
+---
+
+### 📬 Contact Me
+
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/gholapeajinkya)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajinkya16/)
+[<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c5392a?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:gholapeajinkya@gmail.com)
